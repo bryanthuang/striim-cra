@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/striim-cra/static/css/main.867ec186.chunk.css",
+    "main.js": "/striim-cra/static/js/main.4bd5131d.chunk.js",
+    "main.js.map": "/striim-cra/static/js/main.4bd5131d.chunk.js.map",
+    "runtime-main.js": "/striim-cra/static/js/runtime-main.b6f0a862.js",
+    "runtime-main.js.map": "/striim-cra/static/js/runtime-main.b6f0a862.js.map",
+    "static/js/2.f462e922.chunk.js": "/striim-cra/static/js/2.f462e922.chunk.js",
+    "static/js/2.f462e922.chunk.js.map": "/striim-cra/static/js/2.f462e922.chunk.js.map",
+    "index.html": "/striim-cra/index.html",
+    "precache-manifest.bce52095c600fb167d6b119fc55543c0.js": "/striim-cra/precache-manifest.bce52095c600fb167d6b119fc55543c0.js",
+    "service-worker.js": "/striim-cra/service-worker.js",
+    "static/css/main.867ec186.chunk.css.map": "/striim-cra/static/css/main.867ec186.chunk.css.map",
+    "static/js/2.f462e922.chunk.js.LICENSE.txt": "/striim-cra/static/js/2.f462e922.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6f0a862.js",
+    "static/js/2.f462e922.chunk.js",
+    "static/css/main.867ec186.chunk.css",
+    "static/js/main.4bd5131d.chunk.js"
+  ]
+}
